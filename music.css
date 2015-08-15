@@ -17,10 +17,6 @@
   margin: 1px 1px 0 5px;
 }
 
-li a {
-  text-decoration: none;
-}
-
 .wrapper{
   margin-top: 100px;
 }
@@ -38,6 +34,11 @@ li a {
   background-color: #FEFAC0;
   border: 3px solid black;
   text-align: left;
+  list-style: none;
+}
+
+li h2{
+  color: #785616;
 }
 
 .orangebox div:nth-of-type(2n+0){
