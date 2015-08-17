@@ -21,6 +21,19 @@
   margin-top: 100px;
 }
 
+.flex-form {
+    flex-grow:;
+    padding:10px 14px;
+    margin: 0 20px;
+}
+
+.flex-songs {
+    padding:5px;
+    flex-grow:10;
+    margin-right: 20px;
+}
+
+
 .bluebox {
   background-color:  #4DD7FA;
   border: 3px solid black;
@@ -28,6 +41,8 @@
   float: left;
   line-height: 30px;
   margin-right: 20px;
+  padding-top: 28px;
+  padding-bottom: 116px;
 }
 
 .orangebox{
